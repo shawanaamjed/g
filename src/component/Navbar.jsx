@@ -125,7 +125,7 @@ const [mobileLink, setMobileLink] = useState(false);
         </Link>
         <div className="drop"   onMouseEnter={()=>setShowCatMenu(true)}
         onMouseLeave={()=>setShowCatMenu(false)}>
-        <div className="nav-name nav-shop" ><span data-text='SHOP'>SHOPE</span></div>
+        <div className="nav-name nav-shop" ><span data-text='SHOP'>SHOP</span></div>
         <BiSolidChevronDown className='down' size='30px' color='goldenrod'/>
         { showCatMenu &&(
         <ul className='absolute'>
