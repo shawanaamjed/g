@@ -12,7 +12,7 @@ const About = () => {
 
     <div className="story">
       <h1>OUR STORY</h1>
-      <p>At GMP FOODS ,our dairy farm families work with prides and care every day to produce wholesome,nutritious dairy products.Our commitment 
+      <p>At Gmp FOODS ,our dairy farm families work with prides and care every day to produce wholesome,nutritious dairy products.Our commitment 
         to quality continous into the next step ,as our member milk is bottle or processed into dairy products.
         <span>GMPFoods</span> is a global dairy commodity provider ,active in all major dairy producing and consuming markets.We provider
         excellence for our clints accross the board in terms of product quality

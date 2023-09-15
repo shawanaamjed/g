@@ -102,14 +102,14 @@ const Hero = () => {
 
       
       <div className="shope-card">
-          <img src="./images/dair5.webp" alt="food" />
+          <img src="images/dair5.webp" alt="food" />
           <div className="detail">
 <h4>SHOP</h4>
 <p>See the Collection</p>
           </div>
           </div>
           <div className="shope-card">
-          <img src="./images/che2.jpg"  alt="food" />
+          <img src="images/che2.jpg"  alt="food" />
           <div className="detail">
 <h4>CHEESE</h4>
 <p>See the Collection</p>
