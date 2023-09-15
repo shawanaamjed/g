@@ -43,7 +43,7 @@ const Yougert = () => {
             </div>
             <div className="border-line">
       <div className="line"></div>
-      <div className="border-heading">YOUGERTS Collection </div>
+      <div className="border-heading">YOGURTS Collection </div>
       <div className="line"></div>
       </div>
       <div className="view">
