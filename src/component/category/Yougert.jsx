@@ -27,7 +27,7 @@ const Yougert = () => {
     <p>CHEESES</p>
 
     <p>PURE GHEE</p>
-    <p>YOGURTS</p>
+    <p>YOGURT</p>
   </div>
 </div>
 <img src="./images/youg.avif" alt="food" />
